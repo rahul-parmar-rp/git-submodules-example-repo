@@ -1,4 +1,5 @@
 # git-submodules-example-repo
+testing with submodules
 
 This is a standalone example project created inside the portfolio workspace.
 
