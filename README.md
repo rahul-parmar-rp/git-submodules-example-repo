@@ -1,3 +1,5 @@
+
+test sync 
 # git-submodules-example-repo
 testing with submodules
 
